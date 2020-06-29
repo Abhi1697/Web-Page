@@ -4,10 +4,13 @@ Screenshot of the whole project is provided below. Thank you!
 
 
 ![Alt text](Images/Screenshot1.png?raw=true "Picture 1")
-# SCREENSHOT 1
+#                    SCREENSHOT 1
 
 ![Alt text](Images/Screenshot2.png?raw=true "Picture 2")
-# SCREENSHOT 2
+#                    SCREENSHOT 2
 
 ![Alt text](Images/Screenshot3.png?raw=true "Picture 3")
-# SCREENSHOT 3
+#                    SCREENSHOT 3
+
+![Alt text](Images/Screenshot4.png?raw=true "Picture 3")
+#                    SCREENSHOT 4
